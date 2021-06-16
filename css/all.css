@@ -23,6 +23,7 @@ ul {
 
 a {
   text-decoration: none;
+  display: block;
 }
 
 img {
@@ -67,7 +68,6 @@ img {
 
 /* module */
 .logo a {
-  display: block;
   width: 250px;
   height: 250px;
   background: url(https://fakeimg.pl/250x250/);
@@ -88,7 +88,6 @@ img {
 }
 
 .nav-link {
-  display: block;
   padding: 10px;
   color: #fff;
   font-weight: bold;
